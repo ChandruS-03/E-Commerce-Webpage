@@ -1,4 +1,6 @@
 TROPICAL MARKET
+
+
 This is a simple yet functional e-commerce website project built using HTML, CSS. The project includes:
 
 ![Screenshot 2024-07-04 210839](https://github.com/ChandruS-03/E-Commerce-Webpage/assets/146056254/d4eafd5f-ca97-48e5-ae49-8c17b3253b63)
